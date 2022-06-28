@@ -38,7 +38,3 @@
   </div>
   <div  class="button">
     <button  type="submit">Envoyer votre message</button>
-  </div>
-</form>
-  </body>
-  </html>
